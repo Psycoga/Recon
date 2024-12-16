@@ -1,1 +1,0 @@
-"v=spf1 +a +mx +ip4:141.94.249.44 include:_spf.webempresa.eu ~all"
